@@ -1,0 +1,4 @@
+order_id,product,quantity,deadline,customer,shipment_id
+1,Widget A,50,12/30/2024,Customer X,SHIP123
+2,Widget B,30,12/28/2024,Customer Y,SHIP124
+3,Widget C,70,12/29/2024,Customer Z,SHIP125

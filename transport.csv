@@ -1,0 +1,4 @@
+vehicle,capacity,availability
+Truck A,200,Available
+Truck B,100,Available
+Truck C,50,Not Available

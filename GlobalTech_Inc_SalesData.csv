@@ -1,0 +1,101 @@
+Order ID,Order Date,Customer ID,Customer Name,Product ID,Product Name,Category,Quantity Sold,Unit Price,Total Sales,Region,Sales Representative
+ORD-00001,2023-04-11,CUST-7194,David Davis,P005,Smartphone,Hardware,11,599.99,6599.89,North America,David Davis
+ORD-00002,2023-09-25,CUST-5272,Laura Smith,P001,Software Suite,Software,5,199.99,999.95,Australia,Michael Miller
+ORD-00003,2023-10-08,CUST-8587,David Smith,P005,Smartphone,Hardware,9,599.99,5399.91,North America,Emily Johnson
+ORD-00004,2023-02-27,CUST-7814,Sarah Garcia,P004,Cloud Service,Software,16,49.99,799.84,Asia,Laura Smith
+ORD-00005,2023-03-29,CUST-9678,Sarah Johnson,P004,Cloud Service,Software,17,49.99,849.83,Asia,Laura Garcia
+ORD-00006,2024-07-06,CUST-1031,Laura Williams,P002,Laptop,Hardware,20,999.99,19999.8,Australia,Michael Davis
+ORD-00007,2024-01-10,CUST-8824,Jane Garcia,P003,Wireless Mouse,Hardware,20,29.99,599.8,Europe,John Davis
+ORD-00008,2024-05-14,CUST-3841,John Williams,P003,Wireless Mouse,Hardware,7,29.99,209.93,Asia,Jane Jones
+ORD-00009,2024-08-17,CUST-3833,Laura Davis,P002,Laptop,Hardware,13,999.99,12999.87,North America,Alex Davis
+ORD-00010,2023-08-27,CUST-8497,Sarah Brown,P004,Cloud Service,Software,7,49.99,349.93,Europe,Sarah Smith
+ORD-00011,2023-01-04,CUST-4719,John Williams,P002,Laptop,Hardware,3,999.99,2999.97,South America,Sarah Jones
+ORD-00012,2023-01-31,CUST-8007,Laura Brown,P005,Smartphone,Hardware,5,599.99,2999.95,Europe,John Garcia
+ORD-00013,2024-02-06,CUST-6609,Emily Garcia,P002,Laptop,Hardware,5,999.99,4999.95,Australia,Sarah Garcia
+ORD-00014,2024-08-12,CUST-6298,David Brown,P002,Laptop,Hardware,6,999.99,5999.94,South America,Alex Jones
+ORD-00015,2023-04-16,CUST-1480,Laura Williams,P003,Wireless Mouse,Hardware,2,29.99,59.98,North America,David Garcia
+ORD-00016,2023-02-06,CUST-7818,Jane Davis,P004,Cloud Service,Software,20,49.99,999.8,South America,Michael Jones
+ORD-00017,2023-07-04,CUST-5631,Michael Johnson,P003,Wireless Mouse,Hardware,7,29.99,209.93,Asia,Michael Garcia
+ORD-00018,2024-08-02,CUST-6603,David Brown,P001,Software Suite,Software,15,199.99,2999.85,North America,Michael Davis
+ORD-00019,2023-01-07,CUST-4689,Sarah Williams,P004,Cloud Service,Software,10,49.99,499.9,Europe,Jane Miller
+ORD-00020,2023-07-05,CUST-4045,Alex Smith,P002,Laptop,Hardware,3,999.99,2999.97,North America,Alex Johnson
+ORD-00021,2023-10-22,CUST-6160,David Williams,P004,Cloud Service,Software,5,49.99,249.95,Australia,Michael Jones
+ORD-00022,2023-11-22,CUST-7083,John Garcia,P002,Laptop,Hardware,7,999.99,6999.93,Australia,Michael Smith
+ORD-00023,2023-06-03,CUST-1080,David Garcia,P003,Wireless Mouse,Hardware,13,29.99,389.87,Asia,Sarah Davis
+ORD-00024,2023-04-27,CUST-7067,Emily Brown,P003,Wireless Mouse,Hardware,16,29.99,479.84,South America,Emily Smith
+ORD-00025,2023-05-08,CUST-7462,John Garcia,P002,Laptop,Hardware,2,999.99,1999.98,Europe,John Davis
+ORD-00026,2024-01-21,CUST-1056,David Johnson,P003,Wireless Mouse,Hardware,1,29.99,29.99,South America,Alex Davis
+ORD-00027,2024-05-29,CUST-5621,Laura Jones,P003,Wireless Mouse,Hardware,20,29.99,599.8,Australia,John Garcia
+ORD-00028,2024-08-13,CUST-9214,Michael Miller,P001,Software Suite,Software,18,199.99,3599.82,Asia,Alex Garcia
+ORD-00029,2023-10-18,CUST-1552,John Brown,P002,Laptop,Hardware,14,999.99,13999.86,North America,Sarah Miller
+ORD-00030,2023-04-09,CUST-5551,John Williams,P004,Cloud Service,Software,20,49.99,999.8,North America,Emily Miller
+ORD-00031,2023-07-14,CUST-9837,Sarah Davis,P005,Smartphone,Hardware,10,599.99,5999.9,South America,John Davis
+ORD-00032,2023-09-01,CUST-8945,Alex Jones,P002,Laptop,Hardware,5,999.99,4999.95,Australia,Michael Davis
+ORD-00033,2023-04-05,CUST-5089,Alex Davis,P002,Laptop,Hardware,2,999.99,1999.98,Australia,Sarah Johnson
+ORD-00034,2023-04-04,CUST-6209,Alex Brown,P001,Software Suite,Software,12,199.99,2399.88,Australia,John Williams
+ORD-00035,2023-12-10,CUST-5942,Michael Jones,P001,Software Suite,Software,18,199.99,3599.82,Asia,Sarah Johnson
+ORD-00036,2023-09-11,CUST-1034,Laura Davis,P001,Software Suite,Software,4,199.99,799.96,North America,Alex Jones
+ORD-00037,2023-03-04,CUST-8099,John Johnson,P003,Wireless Mouse,Hardware,4,29.99,119.96,Europe,John Davis
+ORD-00038,2024-04-17,CUST-3546,Sarah Jones,P005,Smartphone,Hardware,7,599.99,4199.93,North America,David Garcia
+ORD-00039,2023-07-05,CUST-2619,Jane Miller,P002,Laptop,Hardware,6,999.99,5999.94,North America,Michael Jones
+ORD-00040,2023-07-26,CUST-5362,John Jones,P002,Laptop,Hardware,10,999.99,9999.9,North America,David Brown
+ORD-00041,2023-09-25,CUST-3809,Jane Jones,P004,Cloud Service,Software,7,49.99,349.93,South America,Michael Smith
+ORD-00042,2023-02-16,CUST-2776,Alex Smith,P001,Software Suite,Software,11,199.99,2199.89,Australia,Emily Jones
+ORD-00043,2023-08-23,CUST-4147,John Brown,P004,Cloud Service,Software,17,49.99,849.83,Australia,Jane Brown
+ORD-00044,2023-04-14,CUST-8141,David Miller,P004,Cloud Service,Software,18,49.99,899.82,Asia,Sarah Davis
+ORD-00045,2024-05-21,CUST-1124,Alex Garcia,P002,Laptop,Hardware,5,999.99,4999.95,Europe,David Jones
+ORD-00046,2023-03-03,CUST-2835,Alex Brown,P004,Cloud Service,Software,5,49.99,249.95,South America,Alex Davis
+ORD-00047,2024-03-21,CUST-1987,David Miller,P001,Software Suite,Software,1,199.99,199.99,Asia,David Jones
+ORD-00048,2023-12-24,CUST-5220,Alex Williams,P002,Laptop,Hardware,20,999.99,19999.8,Europe,Laura Miller
+ORD-00049,2024-03-08,CUST-8136,Emily Miller,P001,Software Suite,Software,11,199.99,2199.89,South America,Sarah Garcia
+ORD-00050,2024-03-19,CUST-8972,Emily Brown,P001,Software Suite,Software,16,199.99,3199.84,Australia,John Williams
+ORD-00051,2024-08-25,CUST-3435,Emily Johnson,P004,Cloud Service,Software,4,49.99,199.96,Australia,Jane Johnson
+ORD-00052,2023-05-24,CUST-7825,Sarah Davis,P001,Software Suite,Software,16,199.99,3199.84,South America,Sarah Jones
+ORD-00053,2023-07-24,CUST-6485,Jane Davis,P004,Cloud Service,Software,11,49.99,549.89,South America,Michael Brown
+ORD-00054,2023-02-02,CUST-3089,David Davis,P003,Wireless Mouse,Hardware,9,29.99,269.91,Europe,Emily Johnson
+ORD-00055,2023-01-12,CUST-7911,Sarah Jones,P002,Laptop,Hardware,3,999.99,2999.97,Australia,Sarah Smith
+ORD-00056,2023-08-08,CUST-9362,Alex Williams,P003,Wireless Mouse,Hardware,13,29.99,389.87,Asia,David Williams
+ORD-00057,2023-05-04,CUST-6043,Emily Miller,P003,Wireless Mouse,Hardware,18,29.99,539.82,Australia,Sarah Garcia
+ORD-00058,2024-01-05,CUST-2482,Emily Davis,P005,Smartphone,Hardware,7,599.99,4199.93,South America,Alex Jones
+ORD-00059,2024-05-30,CUST-2025,John Williams,P005,Smartphone,Hardware,2,599.99,1199.98,Europe,Laura Smith
+ORD-00060,2023-02-16,CUST-4915,John Smith,P003,Wireless Mouse,Hardware,17,29.99,509.83,Asia,Emily Garcia
+ORD-00061,2024-03-20,CUST-8998,Michael Williams,P003,Wireless Mouse,Hardware,9,29.99,269.91,Asia,Alex Brown
+ORD-00062,2023-02-15,CUST-2326,Emily Davis,P003,Wireless Mouse,Hardware,3,29.99,89.97,South America,John Davis
+ORD-00063,2024-08-07,CUST-9461,Laura Jones,P001,Software Suite,Software,1,199.99,199.99,Europe,Laura Garcia
+ORD-00064,2023-01-20,CUST-7363,David Brown,P005,Smartphone,Hardware,4,599.99,2399.96,North America,Emily Johnson
+ORD-00065,2023-07-19,CUST-8064,David Brown,P003,Wireless Mouse,Hardware,15,29.99,449.85,South America,Michael Jones
+ORD-00066,2023-12-16,CUST-2105,John Davis,P001,Software Suite,Software,18,199.99,3599.82,North America,Emily Garcia
+ORD-00067,2023-08-26,CUST-8998,Michael Smith,P004,Cloud Service,Software,17,49.99,849.83,Asia,Sarah Garcia
+ORD-00068,2024-02-19,CUST-1194,Alex Johnson,P005,Smartphone,Hardware,12,599.99,7199.88,Asia,Michael Miller
+ORD-00069,2023-04-29,CUST-4068,Jane Jones,P005,Smartphone,Hardware,7,599.99,4199.93,Asia,Emily Davis
+ORD-00070,2023-07-10,CUST-4525,Jane Garcia,P005,Smartphone,Hardware,1,599.99,599.99,Asia,Alex Johnson
+ORD-00071,2024-06-04,CUST-3606,Emily Williams,P001,Software Suite,Software,12,199.99,2399.88,Europe,Emily Jones
+ORD-00072,2023-02-11,CUST-7557,Emily Williams,P002,Laptop,Hardware,8,999.99,7999.92,Australia,David Miller
+ORD-00073,2023-08-17,CUST-9641,Emily Brown,P002,Laptop,Hardware,7,999.99,6999.93,Asia,David Brown
+ORD-00074,2024-07-16,CUST-3542,Jane Brown,P001,Software Suite,Software,14,199.99,2799.86,Europe,Laura Brown
+ORD-00075,2023-10-02,CUST-6237,Emily Williams,P004,Cloud Service,Software,20,49.99,999.8,North America,John Johnson
+ORD-00076,2023-05-08,CUST-1856,Michael Williams,P004,Cloud Service,Software,4,49.99,199.96,Asia,Jane Brown
+ORD-00077,2024-06-24,CUST-5100,John Brown,P001,Software Suite,Software,18,199.99,3599.82,South America,Emily Williams
+ORD-00078,2024-04-08,CUST-5629,Laura Miller,P003,Wireless Mouse,Hardware,11,29.99,329.89,Asia,John Smith
+ORD-00079,2023-03-03,CUST-4367,Sarah Davis,P003,Wireless Mouse,Hardware,9,29.99,269.91,South America,David Jones
+ORD-00080,2023-01-13,CUST-1884,Alex Johnson,P003,Wireless Mouse,Hardware,11,29.99,329.89,Asia,Emily Davis
+ORD-00081,2023-03-09,CUST-9532,Alex Garcia,P001,Software Suite,Software,9,199.99,1799.91,North America,David Johnson
+ORD-00082,2024-02-01,CUST-2075,Jane Smith,P002,Laptop,Hardware,2,999.99,1999.98,Asia,Michael Williams
+ORD-00083,2023-06-25,CUST-4246,David Brown,P002,Laptop,Hardware,16,999.99,15999.84,Australia,Emily Davis
+ORD-00084,2024-04-20,CUST-7773,Sarah Davis,P005,Smartphone,Hardware,11,599.99,6599.89,Asia,Michael Miller
+ORD-00085,2023-04-25,CUST-5202,John Miller,P003,Wireless Mouse,Hardware,11,29.99,329.89,North America,David Davis
+ORD-00086,2023-03-27,CUST-9995,John Johnson,P005,Smartphone,Hardware,10,599.99,5999.9,Australia,Emily Brown
+ORD-00087,2023-05-05,CUST-2335,Jane Garcia,P005,Smartphone,Hardware,14,599.99,8399.86,Asia,John Miller
+ORD-00088,2023-04-29,CUST-3147,Jane Brown,P003,Wireless Mouse,Hardware,19,29.99,569.81,South America,Michael Brown
+ORD-00089,2024-01-09,CUST-2454,Michael Miller,P004,Cloud Service,Software,18,49.99,899.82,Australia,David Williams
+ORD-00090,2023-10-09,CUST-6831,Laura Jones,P003,Wireless Mouse,Hardware,11,29.99,329.89,Asia,David Jones
+ORD-00091,2024-01-10,CUST-2236,Sarah Brown,P005,Smartphone,Hardware,5,599.99,2999.95,North America,Michael Brown
+ORD-00092,2024-08-15,CUST-9296,David Davis,P005,Smartphone,Hardware,3,599.99,1799.97,North America,Emily Brown
+ORD-00093,2024-01-06,CUST-1634,Alex Brown,P003,Wireless Mouse,Hardware,6,29.99,179.94,North America,John Jones
+ORD-00094,2023-07-14,CUST-9822,Laura Garcia,P005,Smartphone,Hardware,17,599.99,10199.83,North America,Emily Johnson
+ORD-00095,2023-03-03,CUST-5337,David Brown,P004,Cloud Service,Software,2,49.99,99.98,North America,Emily Garcia
+ORD-00096,2024-03-29,CUST-6357,Alex Johnson,P002,Laptop,Hardware,18,999.99,17999.82,Asia,Laura Garcia
+ORD-00097,2023-12-20,CUST-8371,Alex Williams,P004,Cloud Service,Software,19,49.99,949.81,Asia,Laura Garcia
+ORD-00098,2024-03-12,CUST-4466,John Garcia,P004,Cloud Service,Software,2,49.99,99.98,North America,Sarah Brown
+ORD-00099,2023-01-08,CUST-4769,David Smith,P003,Wireless Mouse,Hardware,19,29.99,569.81,Asia,David Miller
+ORD-00100,2023-04-05,CUST-8586,Sarah Smith,P003,Wireless Mouse,Hardware,2,29.99,59.98,South America,Sarah Johnson
